@@ -17,6 +17,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "object-sizeof": "^2.6.5",
     "symbol-sdk": "^3.2.3"
   }
 }
